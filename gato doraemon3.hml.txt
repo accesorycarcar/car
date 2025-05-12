@@ -1,0 +1,83 @@
+<html>
+<title> los gatos</title>
+<body>
+
+
+<form action="/my-handling-form-page" method="post">
+  <ul>
+    <li>
+      <label for="name">Nombre:</label>
+      <input type="text" id="name" name="user_name" />
+    </li>
+    <li>
+      <label for="mail">Correo electrónico:</label>
+      <input type="email" id="mail" name="user_mail" />
+    </li>
+    <li>
+      <label for="msg">Mensaje:</label>
+      <textarea id="msg" name="user_message"></textarea>
+    </li>
+  </ul>
+</form>
+
+<img src="soldado.jfif"alt="gatito"align="left"width="100"height="120"/>El cuidado de los niños implica atender sus necesidades básicas, promover su salud y desarrollo, y protegerlos de riesgos. 
+Salud 
+Mantener hábitos de higiene personal
+Promover la actividad física
+Prevenir adicciones
+Reducir la contaminación en casa
+Proteger contra enfermedades y lesiones
+Brindar atención médica cuando están enfermos
+Desarrollo
+Construir una base sólida para el desarrollo económico y social 
+Desarrollar autonomía, participación, toma de decisiones y resolución de conflictos 
+Protección
+Prevenir y responder a la explotación, el abuso, la negligencia, las prácticas nocivas y la violencia 
+Mantener vigilancia y alejar objetos peligrosos 
+Cuidado infantil 
+El cuidado infantil puede ser individual o grupal
+Los proveedores de cuidado individual pueden ser familiares, amigos, niñeras profesionales, "au pairs" o niñeras por horas
+Los proveedores de cuidado grupal pueden ser guarderías, cooperativas para el cuidado de niños o centros de cuidado infantil
+
+
+
+
+
+<p>nuevas imágenes de contexto animal</p>
+<center>
+<img src="doraemon.jfif"alt="doraemon"width="100"height="120"/>
+</center>
+Para cuidar de un gato, debes darle alimento y agua, cepillarlo, jugar con él, vacunarlo y desparasitarlo. También es importante que tengas un espacio exclusivo para que descanse. 
+Alimentación
+Proporciona alimento balanceado y húmedo 
+Dale agua limpia y fresca en un recipiente poco profundo y ancho 
+Evita la comida casera y opta por la que está especialmente formulada para gatos 
+Cepillado 
+Ofrécele el cepillo para que lo huela
+Comienza por su lomo y luego pasa por los costados de su cuerpo
+Alterna el cepillado por caricias
+Repite esto varias veces al día
+<p> 
+<p>
+<p> 
+<p>
+<p style="color:rgb(255,0,0);">Red paragraph text</p>
+<img src="ojo.webp"align="right"width="100"height="120"/>
+
+Cuidar el medio ambiente es tomar conciencia de la importancia de preservar la naturaleza para el bienestar de todos los seres vivos. 
+Algunas acciones que puedes realizar para cuidar el medio ambiente son:
+Reducir el consumo de energía
+Apagar las luces y los electrodomésticos cuando no los estés usando, y usar bombillos de bajo consumo. 
+Ahorrar agua
+Cerrar la ducha mientras te enjabonas y el grifo mientras te cepillas los dientes. 
+Reducir la generación de basura
+Separar la basura, reciclar y reutilizar, y evitar los plásticos de un solo uso. 
+Consumir de manera responsable
+Preferir alimentos ecológicos, de temporada, y evitar el consumo excesivo de carne, pescado y fruta. 
+Moverse de forma sostenible
+Caminar, pedalear, usar el transporte público, o alquilar automóviles por minutos.  bla bla bla bla bla... 
+</p>
+
+<body>
+
+</html>
